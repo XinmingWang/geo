@@ -1,5 +1,5 @@
-## Geo-R
-Visualize geo related data with R
+## GeoR
+A simple R script to convert IP address to geolocation and visualize it with ggplot
 
 ### Setup
 
